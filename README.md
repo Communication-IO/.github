@@ -37,7 +37,7 @@ To get started with any of the projects, clone the repository and navigate to th
 
 Ensure you have the following installed:
 
-- **gcc*: The `gcc` compiler and associated tools.
+- **gcc**: The `gcc` compiler and associated tools.
 - **Git**: For version control.
 - **Golang**: Required for Golang projects.
 - **Java & Scala**: Required for Spring Framework projects.
