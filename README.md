@@ -27,7 +27,7 @@ This repository contains various templates and applications developed by Communi
 - Infrastructure As Code (AWS, GCP, Azure, Digital Ocean and Heroku)
 - AI/ML Environment Creation
 - Payment Integration
-- **Corporate Listings Code
+- Corporate Listings Code
 
 ## Getting Started
 
