@@ -14,10 +14,10 @@ This repository contains various templates and applications developed by Communi
 
 ## Contents - All the real cool stuff in in private repositories
 ### Public Repositories
-- Golang Framework Templates: A collection of Golang frameworks developed for benchmarking.
-- Spring Framework Templates: Templates using the Spring Framework in Java.
-- Spring Framework Scala Templates: Templates combining Spring Framework with Scala.
-- Chat Application: A basic chat application prototype.
+- **Golang Framework Templates**: A collection of Golang frameworks developed for benchmarking.
+- **Spring Framework Templates**: Templates using the Spring Framework in Java.
+- **Spring Framework Scala Templates**: Templates combining Spring Framework with Scala.
+- **Chat Application**: A basic chat application prototype.
   
 ### Private Repositories
 - Backend-Mirco Monolythic code
