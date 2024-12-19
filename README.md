@@ -37,9 +37,14 @@ To get started with any of the projects, clone the repository and navigate to th
 
 Ensure you have the following installed:
 
+- **gcc*: The `gcc` compiler and associated tools.
 - **Git**: For version control.
 - **Golang**: Required for Golang projects.
 - **Java & Scala**: Required for Spring Framework projects.
+- **Oracle Virtual Box**: Required for simulating multiple cloud compute instances.
+- **Python**: Required for Python projects.
+- **XCode**: Required for developmet Objective-C and Swift projects.
+
 
 ### Installation
 
